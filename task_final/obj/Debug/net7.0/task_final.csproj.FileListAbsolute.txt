@@ -1,0 +1,15 @@
+C:\Users\Ольга\Documents\GB\developer_test\developer_test\task_final\bin\Debug\net7.0\task_final.exe
+C:\Users\Ольга\Documents\GB\developer_test\developer_test\task_final\bin\Debug\net7.0\task_final.deps.json
+C:\Users\Ольга\Documents\GB\developer_test\developer_test\task_final\bin\Debug\net7.0\task_final.runtimeconfig.json
+C:\Users\Ольга\Documents\GB\developer_test\developer_test\task_final\bin\Debug\net7.0\task_final.dll
+C:\Users\Ольга\Documents\GB\developer_test\developer_test\task_final\bin\Debug\net7.0\task_final.pdb
+C:\Users\Ольга\Documents\GB\developer_test\developer_test\task_final\obj\Debug\net7.0\task_final.csproj.AssemblyReference.cache
+C:\Users\Ольга\Documents\GB\developer_test\developer_test\task_final\obj\Debug\net7.0\task_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Documents\GB\developer_test\developer_test\task_final\obj\Debug\net7.0\task_final.AssemblyInfoInputs.cache
+C:\Users\Ольга\Documents\GB\developer_test\developer_test\task_final\obj\Debug\net7.0\task_final.AssemblyInfo.cs
+C:\Users\Ольга\Documents\GB\developer_test\developer_test\task_final\obj\Debug\net7.0\task_final.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Documents\GB\developer_test\developer_test\task_final\obj\Debug\net7.0\task_final.dll
+C:\Users\Ольга\Documents\GB\developer_test\developer_test\task_final\obj\Debug\net7.0\refint\task_final.dll
+C:\Users\Ольга\Documents\GB\developer_test\developer_test\task_final\obj\Debug\net7.0\task_final.pdb
+C:\Users\Ольга\Documents\GB\developer_test\developer_test\task_final\obj\Debug\net7.0\task_final.genruntimeconfig.cache
+C:\Users\Ольга\Documents\GB\developer_test\developer_test\task_final\obj\Debug\net7.0\ref\task_final.dll
